@@ -18,12 +18,12 @@ for(int i = 0; i < mensajeOriginal.Length; ++i){  //Iteramos en el mensaje origi
 
         if(checker == characters[j]){ //Chequeamos si el caracter i del mensaje original es igual al ABC  
 
-            result = j + k;
-
+            result = (j + k) % characters.Length;
+    
             while(result > characters.Length){              //Verificamos si no excede de los valores de la matriz
-                    result = result - characters.Length ;
-                }
-
+                result = result - characters.Length ;
+            }
+    
             newString += characters[result];
             
                 }
