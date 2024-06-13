@@ -1,23 +1,39 @@
-*Proyecto final de la materia de Ingenieria en Software*
+<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><p align="center">
+    
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/logo-shadow.png" alt="Logo" width="150" height="150" />
+  
+  
 
-**Algoritmo César**
 
-*Introducción*
+<p align="center">
+  <b>Algoritmo Cesar  </b></br>
+  <sub>Este proyecto tiene como objetivo desarrollar un programa que implemente el Algoritmo César en C# y poner en practica lo aprendido durante la materia como ser: Documentacion, captura de requisitos, historias de usuarios, trabajo en equipo y uso de un sistema controlador de versiones (Github)  <sub>
 
-El Algoritmo César, también conocido como cifrado César, es un método de encriptación simple pero efectivo que ha sido utilizado durante siglos. Funciona desplazando cada letra del alfabeto un número determinado de posiciones. Por ejemplo, si el desplazamiento es 3, la A se convierte en D, la B se convierte en E, y así sucesivamente.
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
 
-Este proyecto tiene como objetivo desarrollar un programa que implemente el Algoritmo César en C#. El programa debe permitir al usuario ingresar una cadena de texto, seleccionar un desplazamiento y luego ver el texto cifrado. El programa también debe incluir funciones para descifrar el texto cifrado.
+## ➤  Algoritmo César
 
-*Objetivos*
+El Algoritmo César, también conocido como cifrado César, es un método de encriptación simple pero efectivo que ha sido utilizado durante siglos. Funciona desplazando cada letra del alfabeto un número determinado de posiciones. Por ejemplo, si el desplazamiento es 3, la A se convierte en D, la B se convierte en E, y así sucesivamente, esto se logra gracias a parametros establecidos en el Abecedario como se muestra en la imagen.
 
-Desarrollar un programa que implemente el Algoritmo César en C#.
-Permitir al usuario ingresar una cadena de texto y un desplazamiento.
-Cifrar el texto ingresado utilizando el desplazamiento especificado.
-Descifrar el texto cifrado.
-Convertir todas las letras a mayúsculas.
-Eliminar espacios y caracteres no alfabéticos del texto.
+![](documentacion/imagenes/Abecedario%20cifrado%20Cesar%20.png)
 
-*Funcionamiento del programa*
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
+## ➤ Objetivos
+* Desarrollar un programa que implemente el Algoritmo César en C#. 
+* Permitir al usuario ingresar una cadena de texto y un desplazamiento.
+* Cifrar el texto ingresado utilizando el desplazamiento especificado.
+* Descifrar el texto cifrado.
+* Convertir todas las letras a mayúsculas.
+* Eliminar espacios y caracteres no alfabéticos del texto.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-quick)
+## Funcionamiento del programa
 
 El programa debe tener una interfaz sencilla que permita al usuario ingresar la cadena de texto que desea cifrar o descifrar, así como el desplazamiento que desea utilizar. El programa debe validar los datos ingresados y mostrar un mensaje de error si hay algún problema.
 
@@ -34,3 +50,12 @@ Para ejecutar el programa, el usuario debe tener instalado Visual Studio y C# en
 *Documentacion*
 
 Se han implementado historias de usuario. 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#getting-started-slower)
+
+
+
+## ➤ License
+	
+Licensed under [MIT](https://opensource.org/licenses/MIT).
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png)
