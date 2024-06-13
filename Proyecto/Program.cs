@@ -2,7 +2,9 @@
 
 bool finisher = true;
 while( finisher == true){
-
+    Console.WriteLine("\n");
+    Console.WriteLine("\n");
+    Console.WriteLine("\n");
     Console.WriteLine("Bienvenido al cifrado Cesar! Que accion quiere realizar ?\n ");
     Console.WriteLine("1.- Cifrar una palabra:");
     Console.WriteLine("2.- Decifrar una palabra\n");

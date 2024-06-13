@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {}
+    "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
+    "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+        "projectUniqueName": "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
         "projectName": "TestDemo",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\obj\\",
+        "projectPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+        "packagesPath": "C:\\Users\\lozad\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lozad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

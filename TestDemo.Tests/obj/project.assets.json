@@ -5524,19 +5524,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PERSONAL\\.nuget\\packages\\": {}
+    "C:\\Users\\lozad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
+      "projectUniqueName": "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
       "projectName": "TestDemo.Tests",
-      "projectPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
-      "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\obj\\",
+      "projectPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
+      "packagesPath": "C:\\Users\\lozad\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lozad\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5548,8 +5548,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
-              "projectPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj"
+            "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
+              "projectPath": "c:\\Users\\lozad\\OneDrive\\Escritorio\\CESAR\\fifififi\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj"
             }
           }
         }
@@ -5602,7 +5602,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
