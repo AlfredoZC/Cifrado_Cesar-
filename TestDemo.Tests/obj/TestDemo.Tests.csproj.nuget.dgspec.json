@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj": {}
+    "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj": {
+    "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
         "projectName": "TestDemo.Tests",
-        "projectPath": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
+        "projectPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\TestDemo.Tests.csproj",
         "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\obj\\",
+        "outputPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
-                "projectPath": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj"
+              "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
+                "projectPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
+    "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+        "projectUniqueName": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
         "projectName": "TestDemo",
-        "projectPath": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+        "projectPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
         "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\obj\\",
+        "outputPath": "c:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config"
