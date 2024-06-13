@@ -17,32 +17,45 @@ while( finisher == true){
 
             Console.WriteLine("Ingrese la palabra a cifrar: ");
             string mensaje = Console.ReadLine(); //palabra ingresada por el usuario
-            string mensajeOriginal = ""; //Palabra que ingreso el usuario pero limpiada de caracteres 
-            for(int i = 0; i < mensaje.Length; ++i){
-                char depurador = mensaje[i];
-                int iterador = depurador;
-                if(iterador > 64 && iterador < 91 || iterador >= 97 && iterador < 123 ){
-                    mensajeOriginal += mensaje[i];
+                    
+            if(mensaje == ""){
+
+            Console.WriteLine("No se puede cifrar mensajes vacios!! Ingrese la palabra de nuevo");
+            Console.WriteLine("\n");
+            continue;
+
+            }else{
+
+                string mensajeOriginal = ""; //Palabra que ingreso el usuario pero limpiada de caracteres 
+                for(int i = 0; i < mensaje.Length; ++i){
+                    char depurador = mensaje[i];
+                    int iterador = depurador;
+
+                    if(iterador > 64 && iterador < 91 || iterador >= 97 && iterador < 123 ){
+                        mensajeOriginal += mensaje[i];
+                    }
+                }
+
+                string mensajeOriginalMayusculas = mensajeOriginal.ToUpper(); //Palabra limpiada de caracteres pero todas son mayusculas
+
+                Console.WriteLine("Tu palabra limpia y lista para ser cifrada es:" + mensajeOriginalMayusculas);
+                Console.WriteLine("\n");
+                Console.WriteLine("Ingrese la Clave (valores numericos) Debe recordar la clave para volver a decifrar el mensaje");
+                int k = int.Parse(Console.ReadLine());
+                string cifrado1 = Algorithm.cifrado(mensajeOriginalMayusculas, k); //Usamos nuestra funcion creada para cifrar el mensaje con el algoritmo Cesar
+                Console.WriteLine("la palabra cifrada es:" + cifrado1); 
+                Console.WriteLine("\n");
+
+                Console.WriteLine("Desea cifrar alguna otra palabra?: 1.- SI      2.- NO");
+                Console.WriteLine("Ingrese su opcion 1 o 2:");
+                int answer2 = int.Parse(Console.ReadLine());
+                if(answer2 == 1){
+                    continue;
+                }else{
+                    salida2 = false;
                 }
             }
-
-            string mensajeOriginalMayusculas = mensajeOriginal.ToUpper(); //Palabra limpiada de caracteres pero todas son mayusculas
-
-            Console.WriteLine("Tu palabra limpia y lista para ser cifrada es:" + mensajeOriginalMayusculas);
-            Console.WriteLine("Ingrese la Clave (valores numericos) Debe recordar la clave para volver a decifrar el mensaje");
-            int k = int.Parse(Console.ReadLine());
-            string cifrado1 = Algorithm.cifrado(mensajeOriginalMayusculas, k); //Usamos nuestra funcion creada para cifrar el mensaje con el algoritmo Cesar
-            Console.WriteLine("la palabra cifrada es:" + cifrado1); 
-            Console.WriteLine("\n");
-
-            Console.WriteLine("Desea cifrar alguna otra palabra?: 1.- SI      2.- NO");
-            Console.WriteLine("Ingrese su opcion 1 o 2:");
-            int answer2 = int.Parse(Console.ReadLine());
-            if(answer2 == 1){
-                continue;
-            }else{
-                salida2 = false;
-            }
+            
         }   //fin del loop 
 
         
@@ -57,7 +70,7 @@ while( finisher == true){
             string palabraMayuscula = palabra.ToUpper(); //Palabra cifrada pero en mayuscula
             Console.WriteLine("Ingrese la clave para decifrar el mensaje: ");
             int k = int.Parse(Console.ReadLine());
-            
+             
             string decifrada = Algorithm.descifrado(palabraMayuscula , k); //Usamos nuestra funcion creada para decifrar el mensaje cifrado
             Console.WriteLine("Su palabra decifrada es:" + decifrada );
             Console.WriteLine("\n");
