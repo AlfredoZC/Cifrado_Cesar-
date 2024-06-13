@@ -1,6 +1,4 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><p align="center">
-    
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/logo-shadow.png" alt="Logo" width="150" height="150" />
   
   
 

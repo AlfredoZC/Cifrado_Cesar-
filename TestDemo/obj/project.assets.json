@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\PERSONAL\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
       "projectName": "TestDemo",
-      "projectPath": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
-      "packagesPath": "C:\\Users\\PERSONAL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PERSONAL\\Documents\\Alfredo\\Estudio\\Fundamentos  de software\\Proyecto final\\Cifrado_Cesar-\\TestDemo\\obj\\",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\TestDemo.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Escritorio\\Cesar\\Cifrado_Cesar-\\TestDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PERSONAL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
